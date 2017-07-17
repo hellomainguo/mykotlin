@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        tv.text = "Hello MyKotlin harryguo 3"
+        tv.text = "Hello MyKotlin harryguo 7.8 develop"
         tv.textSize = 20.0f
     }
 }
